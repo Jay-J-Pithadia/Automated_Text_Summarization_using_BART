@@ -1,4 +1,4 @@
-**Title: Text Summarization using BART Model
+**Title: Text Summarization using BART Model**
 
 **1. Introduction** :
 
